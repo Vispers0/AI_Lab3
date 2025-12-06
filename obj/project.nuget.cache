@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRJ10vdT6Ss=",
+  "success": true,
+  "projectFilePath": "C:\\VSProjects\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visp0\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\visp0\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\visp0\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\visp0\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\visp0\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
